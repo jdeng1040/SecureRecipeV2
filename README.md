@@ -11,7 +11,7 @@ Please note that these instructions are primarily meant for those who have alrea
 
 ### 2. Install dependencies   
 
-In two terminal windows for both frontend folder and backend folder
+In two terminal windows for both client folder and server folder
 
 Run the following command:
 
